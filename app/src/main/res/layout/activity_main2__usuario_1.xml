@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Main2Activity_Usuario_2">
+    tools:context=".Main2Activity_Usuario_1">
 
 </android.support.constraint.ConstraintLayout>
